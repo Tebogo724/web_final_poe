@@ -1,2 +1,5 @@
+
 User-agent: *
 Allow: /
+
+Sitemap: https://tebogo724.github.io/web_final_poe/sitemap.xml
