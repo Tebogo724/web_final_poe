@@ -14,7 +14,7 @@ Proposed Website Features and Functionality:	6
 Design and User Experience:	6
 Wireframe:	7
 Home	8
-	8
+	
 	9
 	9
 	9
